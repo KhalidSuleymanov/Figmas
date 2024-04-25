@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.full-picture{
+    width: 80%;
+}
+.second-row {
+    display: flex;
+    height: 100%;
+}
+
+.left-png img {
+    width: 96%;
+    height: 40vh;
+}
+
+.right-png img {
+    width: 96%;
+    height: 40vh;
+}
+
+.third-row {
+    display: flex;
+    height: 100%;
+}
+
+.left-png1 img {
+    width: 96%;
+    height: 40vh;
+}
+
+.right-png1 img {
+    width: 113%;
+    height: 40vh;
+    margin-top: 0.3rem;
+}

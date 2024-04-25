@@ -1,0 +1,80 @@
+#cards {
+    background-color: #fdeee6;
+    padding: 5rem 0;
+}
+
+.container-class {
+    width: 1440px;
+    max-width: 87%;
+    margin: 0 auto;
+}
+
+.first-second-text>h4 {
+    text-transform: uppercase;
+    display: flex;
+    color: #721b0d;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+.first-second-text>h1 {
+    margin-top: 25px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 18px;
+    color: #391400;
+    display: flex;
+    line-height: 3rem;
+}
+
+.cards-info {
+    border: 1px solid #F3D1BF;
+    width: 380px;
+    padding: 2rem 1rem 5rem 2rem;
+}
+
+.cards-total {
+    display: flex;
+    margin-top: 35px;
+}
+
+.cards-info>h3 {
+    margin-top: 31px;
+    color: #2c1001;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 2rem;
+    font-size: larger;
+}
+
+.cards-info>p {
+    font-size: 1rem;
+    margin-top: 20px;
+    color: rgba(70, 28, 6, 0.64);
+    line-height: 2rem;
+}
+
+.cards-info>a {
+    display: inline-block;
+    margin-top: 36px;
+    color: #411701;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.circle-style {
+    background-color: #EF6C57;
+    width: 53px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.circle-style>div {
+    text-align: center;
+    padding: 0.4rem 0.4rem;
+}
+
+.circle-style>div>img {
+    width: 26px;
+}
